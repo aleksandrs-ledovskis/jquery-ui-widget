@@ -1,0 +1,23 @@
+{
+  "name": "jqueryui-widget",
+  "authors": [
+    "Aleksandrs Ļedovskis <aleksandrs@ledovskis.lv>"
+  ],
+  "description": "The jQuery UI Widget Factory is an extensible base on which all of jQuery UI's widgets are built.",
+  "main": "js/jquery-ui-widget.js",
+  "keywords": [
+    "jquery-ui",
+    "jquery-ui-widget",
+    "widget",
+    "ui"
+  ],
+  "license": "MIT",
+  "homepage": "https://api.jqueryui.com/jQuery.widget/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
